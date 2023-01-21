@@ -1,2 +1,2 @@
-# chandan-sign-up
+# amar-signup
 sign up code service
